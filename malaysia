@@ -1,0 +1,144 @@
+{
+  "festivals": [
+    {
+      "name": "Chinese New Year",
+      "date": "2023-01-22",
+      "description": "The Chinese lunar new year, celebrated with various customs and traditions."
+    },
+    {
+      "name": "Thaipusam",
+      "date": "2023-01-17",
+      "description": "A Hindu festival celebrated with grand processions and the carrying of Kavadi (burdens)."
+    },
+    {
+      "name": "Hari Raya Aidilfitri",
+      "date": "2023-04-11",
+      "description": "The Muslim festival marking the end of Ramadan, celebrated with feasting and visiting."
+    },
+    {
+      "name": "Vesak Day",
+      "date": "2023-05-19",
+      "description": "A Buddhist festival celebrating the birth, enlightenment, and death of Buddha."
+    },
+    {
+      "name": "Kaamatan Festival",
+      "date": "2023-05-30",
+      "description": "A harvest festival celebrated by the Kadazandusun people in Sabah."
+    },
+    {
+      "name": "Hari Gawai",
+      "date": "2023-06-01",
+      "description": "A harvest festival celebrated by the Iban and Bidayuh people in Sarawak."
+    },
+    {
+      "name": "Dragon Boat Festival",
+      "date": "2023-06-13",
+      "description": "A Chinese festival featuring dragon boat races and rice dumplings."
+    },
+    {
+      "name": "Eid al-Adha",
+      "date": "2023-06-27",
+      "description": "The Islamic festival of sacrifice, commemorating Ibrahim's willingness to sacrifice his son."
+    },
+    {
+      "name": "Hari Raya Haji",
+      "date": "2023-06-27",
+      "description": "The Muslim festival of sacrifice, marked by the slaughtering of livestock."
+    },
+    {
+      "name": "Hungry Ghost Festival",
+      "date": "2023-08-12",
+      "description": "A Chinese festival honoring deceased ancestors and appeasing wandering spirits."
+    },
+    {
+      "name": "Mooncake Festival",
+      "date": "2023-09-04",
+      "description": "A Chinese festival celebrating the mid-autumn harvest with mooncakes."
+    },
+    {
+      "name": "Navaratri",
+      "date": "2023-09-24",
+      "description": "A Hindu festival spanning nine nights, dedicated to various goddesses."
+    },
+    {
+      "name": "Deepavali",
+      "date": "2023-10-12",
+      "description": "A Hindu festival of lights, symbolizing the victory of light over darkness."
+    },
+    {
+      "name": "Christmas",
+      "date": "2023-12-25",
+      "description": "A Christian holiday celebrating the birth of Jesus Christ."
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2023-01-01",
+      "description": "The first day of the Gregorian calendar, celebrated with parties and fireworks."
+    },
+    {
+      "name": "Chap Goh Meh",
+      "date": "2023-02-05",
+      "description": "A Chinese festival marking the end of the lunar new year celebrations."
+    },
+    {
+      "name": "Thaipusam",
+      "date": "2023-01-17",
+      "description": "A Hindu festival celebrated with grand processions and the carrying of Kavadi (burdens)."
+    },
+    {
+      "name": "Easter",
+      "date": "2023-04-09",
+      "description": "A Christian holiday celebrating the resurrection of Jesus Christ."
+    },
+    {
+      "name": "Wesak Day",
+      "date": "2023-05-19",
+      "description": "A Buddhist festival celebrating the birth, enlightenment, and death of Buddha."
+    },
+    {
+      "name": "Pongal",
+      "date": "2023-01-14",
+      "description": "A Tamil harvest festival celebrated with traditional cooking and rituals."
+    },
+    {
+      "name": "Deepavali",
+      "date": "2023-10-12",
+      "description": "A Hindu festival of lights, symbolizing the victory of light over darkness."
+    },
+    {
+      "name": "Thaipusam",
+      "date": "2023-01-17",
+      "description": "A Hindu festival celebrated with grand processions and the carrying of Kavadi (burdens)."
+    },
+    {
+      "name": "Eid al-Fitr",
+      "date": "2023-04-02",
+      "description": "The Islamic festival marking the end of Ramadan, celebrated with prayers and feasting."
+    },
+    {
+      "name": "Pesta Kaamatan",
+      "date": "2023-05-30",
+      "description": "A Kadazandusun festival celebrating the rice harvest in Sabah."
+    },
+    {
+      "name": "Mid-Autumn Festival",
+      "date": "2023-09-04",
+      "description": "A Chinese festival featuring mooncakes and lanterns."
+    },
+    {
+      "name": "Hari Raya Aidiladha",
+      "date": "2023-06-27",
+      "description": "The Muslim festival of sacrifice, celebrated with prayers and the slaughter of livestock."
+    },
+    {
+      "name": "Deepavali",
+      "date": "2023-10-12",
+      "description": "A Hindu festival of lights, symbolizing the victory of light over darkness."
+    },
+    {
+      "name": "Christmas",
+      "date": "2023-12-25",
+      "description": "A Christian holiday celebrating the birth of Jesus Christ."
+    }
+  ]
+}
